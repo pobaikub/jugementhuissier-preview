@@ -1,0 +1,9 @@
+POUR VOIR LE SITE CORRECTEMENT
+
+1. Téléchargez et décompressez le ZIP au complet.
+2. Ouvrez le fichier index.html dans le dossier extrait.
+3. Ne cliquez pas sur 404.html.
+4. Gardez les dossiers assets, styles.css et site.js avec les fichiers HTML.
+
+Le fichier autonome d’aperçu rapide est : apercu_jugementhuissier_autonome.html
+Le site complet est dans ce ZIP.
